@@ -1,0 +1,2 @@
+# python
+interpreted language
